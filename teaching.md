@@ -92,7 +92,7 @@ We regularly supervise Bachelor's and Master's theses on topics related to our r
 - AI-based decision support systems
 - Robotics and automation in agriculture
 
-**Interested in a thesis project?** Contact us at [ehsan.yaghoubi@hswt.de](mailto:ehsan.yaghoubi@hswt.de) to discuss available topics aligned with your interests and our ongoing research.
+**Interested in a thesis project?** Contact us at [florian.haselbeck@hswt.de](mailto:florian.haselbeck@hswt.de) to discuss available topics aligned with your interests and our ongoing research.
 
 ---
 
