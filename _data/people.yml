@@ -1,42 +1,42 @@
 # Principal Investigator
 pi:
-  - name: Florian
+  - name: Prof. Dr. Florian Haselbeck
     role: Professor & Group Leader
     photo: /assets/images/people/f.jpeg
-    description: "Description 1 coming soon."
+    description: "Prof. Dr. Florian Haselbeck leads the smAIL-WS at the Department of Sustainable Agriculture and Energy Systems, Hochschule Weihenstephan-Triesdorf. His research focuses on applied artificial intelligence and digitalization in agriculture to address global challenges in food production and sustainability."
 
 # Postdoctoral Researchers
 postdocs:
-  - name: Ehsan
+  - name: Dr. Ehsan Yaghoubi
     role: Postdoctoral Researcher
     photo: /assets/images/people/e.jpeg
-    description: "Ehsan is a postdoctoral researcher with expertise in Computer Vision and CrossModal data analysis, working in the Animal Monitoring domain."
+    description: "Dr. Ehsan Yaghoubi is a postdoctoral researcher with expertise in Computer Vision and CrossModal data analysis, specializing in Animal Monitoring systems. His research leverages multi-modal sensor data to develop intelligent solutions for livestock farming and animal welfare assessment."
   
-  - name: Georg
+  - name: Dr. Georg Back
     role: Postdoctoral Researcher
     photo: /assets/images/people/g.jpeg
-    description: "Georg is a postdoctoral researcher with expertise in biology and agricultural systems."
+    description: "Dr. Georg Back is a postdoctoral researcher with expertise in biology and agricultural systems. His research focuses on understanding genotype-phenotype relationships using deep learning approaches to improve plant breeding and agricultural productivity."
 
 # PhD Students
 phd_students:
-  - name: Harsha
+  - name: Harshavardhan Subramanian
     role: PhD Student
     photo: /assets/images/people/h.jpeg
-    description: "Harsha is a PhD student working on weed detection using computer vision and machine learning techniques."
+    description: "Harshavardhan Subramanian is a PhD student working on weed detection using computer vision and machine learning techniques. His research focuses on leveraging large pre-trained foundation models to develop generalizable weed detection methods for sustainable agriculture."
   
-  - name: Leonie
+  - name: Leonie Hahn
     role: PhD Student
     photo: /assets/images/people/l.jpeg
-    description: "Leonie is a PhD student working on the Smart Forestry project, developing intelligent systems for forest management."
+    description: "Leonie Hahn is a PhD student working on the smartReForest project, developing smart solutions for resilient reforestation to secure essential ecosystem services in the context of climate change. Her research combines AI and environmental science to address forestry challenges."
   
-  - name: Marco
+  - name: Marco Obermeier
     role: PhD Student
     photo: /assets/images/people/m.jpeg
-    description: "Marco is a PhD student working on time series prediction and forecasting models for agricultural applications."
+    description: "Marco Obermeier is a PhD student working on the smartBattery project, applying machine learning and optimization techniques for optimal integration of battery storage in smart grids. His research focuses on time series analysis of energy data to improve renewable energy systems in agriculture."
 
 # Student Assistants
 assistants:
-  - name: Jessica
+  - name: Jessica Kaposztas
     role: Student Assistant
     photo: /assets/images/people/j.jpeg
-    description: "Jessica is a student assistant supporting the research group with various projects and administrative tasks."
+    description: "Jessica Kaposztas is a student assistant supporting the research group with various projects and administrative tasks, contributing to the advancement of smart farming technologies."

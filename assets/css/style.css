@@ -16,6 +16,7 @@ body {
     height: auto;
     overflow: hidden;
     margin-bottom: 2rem;
+    position: relative; /* Required for absolute positioning of logo */
 }
 
 .header-image img {
@@ -26,6 +27,26 @@ body {
     border-radius: 0; /* No border radius for header */
     margin: 0;
     object-fit: cover; /* Maintain aspect ratio while covering area */
+}
+
+/* Logo overlay container - positioned at top left */
+.logo-overlay {
+    position: absolute; /* Position relative to .header-image */
+    top: 20px;          /* Distance from top edge */
+    left: 20px;         /* Distance from left edge */
+    z-index: 10;        /* Ensure logo appears above header image */
+}
+
+/* Logo image styling */
+.logo-overlay img {
+    width: 150px;       /* Adjust logo width as needed */
+    height: auto;       /* Maintain aspect ratio */
+    max-width: 150px;   /* Maximum width */
+    display: block;
+    border-radius: 0;   /* No border radius for logo */
+    margin: 0;
+    /* Optional: Add shadow for better visibility on light backgrounds */
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
 }
 
 /* Main content container - centered with max width */
@@ -175,4 +196,82 @@ footer {
     .header-image {
         margin-bottom: 1rem;
     }
+        /* Smaller logo on mobile */
+    .logo-overlay {
+        top: 10px;
+        left: 10px;
+    }
+    
+    .logo-overlay img {
+        width: 80px;  /* Smaller logo for mobile */
+        max-width: 80px;
+    }
+    /* Research project card styling */
+.research-project {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 3rem;
+    gap: 2rem;
+    padding-bottom: 2rem;
+}
+
+/* Project image - fixed size on the left */
+.research-project .project-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+    object-fit: cover;
+    flex-shrink: 0; /* Prevent image from shrinking */
+    display: block;
+    margin: 0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Project content container */
+.project-content {
+    flex: 1;
+}
+
+/* Project title */
+.project-content h4 {
+    margin: 0 0 0.8rem 0;
+    font-size: 1.2rem;
+    color: #000;
+    font-weight: bold;
+}
+
+/* Project metadata (researcher, duration) */
+.project-content p strong {
+    color: #333;
+    font-weight: 600;
+}
+
+/* Project text */
+.project-content p {
+    margin: 0.5rem 0;
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+/* Horizontal divider between projects */
+hr {
+    border: none;
+    border-top: 1px solid #eee;
+    margin: 2rem 0;
+}
+
+/* Mobile responsive - stack vertically */
+@media (max-width: 600px) {
+    .research-project {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 1rem;
+    }
+    
+    .research-project .project-image {
+        width: 120px;
+        height: 120px;
+    }
+}
 }

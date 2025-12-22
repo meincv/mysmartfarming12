@@ -8,9 +8,13 @@
 </head>
 <body>
 
-    <!-- Full-width header landscape image - displays on all pages -->
+    <!-- Full-width header landscape image with logo overlay -->
     <div class="header-image">
         <img src="{{ site.header_image | relative_url }}" alt="Research Group Header">
+        <!-- Logo overlay positioned at top left of header image -->
+        <div class="logo-overlay">
+            <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="{{ site.title }} Logo">
+        </div>
     </div>
 
     <header>
