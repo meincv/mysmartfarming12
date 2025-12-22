@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Welcome to the **Smart Farming Research Group** at [Hochschule Weihenstephan-Triesdorf](https://www.hswt.de/), Campus Weihenstephan (near Munich, Bavaria). Our interdisciplinary team investigates the frontiers of **Artificial Intelligence, robotics, and digital technologies** to address global challenges in agriculture.
+Welcome to the **SmAIL Research Group** at [University of Applied Sciences Weihenstephan-Triesdorf (HSWT)](https://www.hswt.de/), Freising, Bavaria, Germany. Our interdisciplinary team investigates the frontiers of **Artificial Intelligence, robotics, and digital technologies** to address global challenges in agriculture.
 
 ## Our Mission
 
