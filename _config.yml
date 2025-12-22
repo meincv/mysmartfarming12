@@ -1,0 +1,31 @@
+title: Research Group Name
+email: contact@university.edu
+description: Academic research group at University.
+baseurl: "" # leave empty for github.io/repo-name
+url: ""
+
+# Collections for easy updates
+collections:
+  people:
+    output: false
+  news:
+    output: false
+
+# Navigation
+navigation:
+  - title: Home
+    url: /index.html
+  - title: People
+    url: /people.html
+  - title: Research
+    url: /research.html
+  - title: Publications
+    url: /publications.html
+  - title: Teaching
+    url: /teaching.html
+  - title: Photos
+    url: /photos.html
+  - title: News
+    url: /news.html
+  - title: Open Positions
+    url: /positions.html
