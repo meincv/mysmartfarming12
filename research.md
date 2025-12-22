@@ -12,7 +12,7 @@ Our research focuses on developing sustainable, AI-powered solutions for complex
 ### Weed Detection
 
 <div class="research-project">
-  <img src="/assets/images/research/wd.jpg" alt="Weed Detection" class="project-image">
+  <img src="{{ '/assets/images/research/wd.jpg' | relative_url }}" alt="Weed Detection" class="project-image">
   <div class="project-content">
     <h4>Developing Generalizable Weed Detection Methods</h4>
     <p><strong>Researcher:</strong> Harshavardhan Subramanian</p>
@@ -27,7 +27,7 @@ Our research focuses on developing sustainable, AI-powered solutions for complex
 ### Animal Monitoring
 
 <div class="research-project">
-  <img src="/assets/images/research/am.jpg" alt="Animal Monitoring" class="project-image">
+  <img src="{{ '/assets/images/research/am.jpg' | relative_url }}" alt="Animal Monitoring" class="project-image">
   <div class="project-content">
     <h4>CrossModal Behavior Analysis for Livestock</h4>
     <p><strong>Researcher:</strong> Dr. Ehsan Yaghoubi</p>
@@ -42,7 +42,7 @@ Our research focuses on developing sustainable, AI-powered solutions for complex
 ### Genotype-Phenotype Relationship
 
 <div class="research-project">
-  <img src="/assets/images/research/gp.jpg" alt="Genotype-Phenotype Research" class="project-image">
+  <img src="{{ '/assets/images/research/gp.jpg' | relative_url }}" alt="Genotype-Phenotype Research" class="project-image">
   <div class="project-content">
     <h4>AI-Enhanced Plant Breeding</h4>
     <p><strong>Researcher:</strong> Dr. Georg Back</p>
@@ -57,7 +57,7 @@ Our research focuses on developing sustainable, AI-powered solutions for complex
 ### Prevention of Plant Diseases
 
 <div class="research-project">
-  <img src="/assets/images/research/pb.jpg" alt="Plant Disease Prevention" class="project-image">
+  <img src="{{ '/assets/images/research/pb.jpg' | relative_url }}" alt="Plant Disease Prevention" class="project-image">
   <div class="project-content">
     <h4>AI-Powered Early Warning System for Downy Mildew in Hop Production</h4>
     <p><strong>Challenge:</strong> Current downy mildew warning systems in hop production rely on outdated manual counting methods and lack regional specificity, leading to delayed responses and inefficient fungicide application.</p>
@@ -71,7 +71,7 @@ Our research focuses on developing sustainable, AI-powered solutions for complex
 ### smartBattery: Energy Storage Optimization
 
 <div class="research-project">
-  <img src="/assets/images/research/sb.jpg" alt="smartBattery Project" class="project-image">
+  <img src="{{ '/assets/images/research/sb.jpg' | relative_url }}" alt="smartBattery Project" class="project-image">
   <div class="project-content">
     <h4>Machine Learning for Smart Grid Integration</h4>
     <p><strong>Researcher:</strong> Marco Obermeier</p>
@@ -87,7 +87,7 @@ Our research focuses on developing sustainable, AI-powered solutions for complex
 ### smartReForest: Resilient Reforestation
 
 <div class="research-project">
-  <img src="/assets/images/research/sr.jpg" alt="smartReForest Project" class="project-image">
+  <img src="{{ '/assets/images/research/sr.jpg' | relative_url }}" alt="smartReForest Project" class="project-image">
   <div class="project-content">
     <h4>Smart Solutions for Climate-Resilient Forests</h4>
     <p><strong>Researcher:</strong> Leonie</p>

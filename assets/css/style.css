@@ -218,10 +218,10 @@ footer {
 /* Project image - fixed size on the left */
 .research-project .project-image {
     width: 150px;
-    height: 150px;
+    height: auto;  /* Changed: flexible height */
     border-radius: 8px;
-    object-fit: cover;
-    flex-shrink: 0; /* Prevent image from shrinking */
+    object-fit: contain;  /* Changed: preserve aspect ratio */
+    flex-shrink: 0;
     display: block;
     margin: 0;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
@@ -270,7 +270,7 @@ hr {
 }
     
 .research-project .project-image {
-        width: 120px;
-        height: 120px;
+        width: 100px;
+        height: auto;
 }
 }
