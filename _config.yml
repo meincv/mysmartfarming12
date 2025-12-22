@@ -1,8 +1,8 @@
 title: Research Group Name
 email: contact@university.edu
 description: Academic research group at University.
-baseurl: "" # leave empty for github.io/repo-name
-url: ""
+url: "https://meincv.github.io"
+baseurl: "/mysmartfarming12"
 
 # Collections for easy updates
 collections:
