@@ -29,3 +29,6 @@ navigation:
     url: /news.html
   - title: Open Positions
     url: /positions.html
+
+# Header image configuration
+header_image: /assets/images/header.jpg

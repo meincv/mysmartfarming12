@@ -1,12 +1,42 @@
----
-layout: default
-title: People
----
+# Principal Investigator
+pi:
+  - name: Florian
+    role: Professor & Group Leader
+    photo: /assets/images/people/f.jpeg
+    description: "Description 1 coming soon."
 
-### Principal Investigator
-![Person 1](/assets/images/people/p1.jpg)
-**Person 1** is the head of the lab. A simple sentence placeholder here.
+# Postdoctoral Researchers
+postdocs:
+  - name: Ehsan
+    role: Postdoctoral Researcher
+    photo: /assets/images/people/e.jpeg
+    description: "Ehsan is a postdoctoral researcher with expertise in Computer Vision and CrossModal data analysis, working in the Animal Monitoring domain."
+  
+  - name: Georg
+    role: Postdoctoral Researcher
+    photo: /assets/images/people/g.jpeg
+    description: "Georg is a postdoctoral researcher with expertise in biology and agricultural systems."
 
-### Researchers
-![Person 2](/assets/images/people/p2.jpg)
-**Person 2** is a researcher. A simple sentence placeholder here.
+# PhD Students
+phd_students:
+  - name: Harsha
+    role: PhD Student
+    photo: /assets/images/people/h.jpeg
+    description: "Harsha is a PhD student working on weed detection using computer vision and machine learning techniques."
+  
+  - name: Leonie
+    role: PhD Student
+    photo: /assets/images/people/l.jpeg
+    description: "Leonie is a PhD student working on the Smart Forestry project, developing intelligent systems for forest management."
+  
+  - name: Marco
+    role: PhD Student
+    photo: /assets/images/people/m.jpeg
+    description: "Marco is a PhD student working on time series prediction and forecasting models for agricultural applications."
+
+# Student Assistants
+assistants:
+  - name: Jessica
+    role: Student Assistant
+    photo: /assets/images/people/j.jpeg
+    description: "Jessica is a student assistant supporting the research group with various projects and administrative tasks."
