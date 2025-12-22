@@ -11,7 +11,7 @@ Our research focuses on developing sustainable, AI-powered solutions for complex
 
 ### Weed Detection
 
-<div class="research-project">
+<div class="research-project image-left">
   <img src="{{ '/assets/images/research/wd.jpg' | relative_url }}" alt="Weed Detection" class="project-image">
   <div class="project-content">
     <h4>Developing Generalizable Weed Detection Methods</h4>
@@ -26,7 +26,7 @@ Our research focuses on developing sustainable, AI-powered solutions for complex
 
 ### Animal Monitoring
 
-<div class="research-project">
+<div class="research-project image-right">
   <img src="{{ '/assets/images/research/am.jpg' | relative_url }}" alt="Animal Monitoring" class="project-image">
   <div class="project-content">
     <h4>CrossModal Behavior Analysis for Livestock</h4>
@@ -41,7 +41,7 @@ Our research focuses on developing sustainable, AI-powered solutions for complex
 
 ### Genotype-Phenotype Relationship
 
-<div class="research-project">
+<div class="research-project image-left">
   <img src="{{ '/assets/images/research/gp.jpg' | relative_url }}" alt="Genotype-Phenotype Research" class="project-image">
   <div class="project-content">
     <h4>AI-Enhanced Plant Breeding</h4>
@@ -56,7 +56,7 @@ Our research focuses on developing sustainable, AI-powered solutions for complex
 
 ### Prevention of Plant Diseases
 
-<div class="research-project">
+<div class="research-project image-right">
   <img src="{{ '/assets/images/research/pb.jpg' | relative_url }}" alt="Plant Disease Prevention" class="project-image">
   <div class="project-content">
     <h4>AI-Powered Early Warning System for Downy Mildew in Hop Production</h4>
@@ -70,7 +70,7 @@ Our research focuses on developing sustainable, AI-powered solutions for complex
 
 ### smartBattery: Energy Storage Optimization
 
-<div class="research-project">
+<div class="research-project image-left">
   <img src="{{ '/assets/images/research/sb.jpg' | relative_url }}" alt="smartBattery Project" class="project-image">
   <div class="project-content">
     <h4>Machine Learning for Smart Grid Integration</h4>
@@ -86,11 +86,11 @@ Our research focuses on developing sustainable, AI-powered solutions for complex
 
 ### smartReForest: Resilient Reforestation
 
-<div class="research-project">
+<div class="research-project image-right">
   <img src="{{ '/assets/images/research/sr.jpg' | relative_url }}" alt="smartReForest Project" class="project-image">
   <div class="project-content">
     <h4>Smart Solutions for Climate-Resilient Forests</h4>
-    <p><strong>Researcher:</strong> Leonie</p>
+    <p><strong>Researcher:</strong> Leonie Hahn</p>
     <p><strong>Challenge:</strong> Climate change threatens forest ecosystems and the essential services they provide. Traditional reforestation approaches often fail to account for future climate conditions and species adaptability.</p>
     <p><strong>Approach:</strong> We develop AI-driven decision support systems that combine climate projections, species modeling, and ecological data to optimize reforestation strategies for long-term forest resilience and ecosystem service provision.</p>
     <p><strong>Impact:</strong> Climate-adapted forests that maintain biodiversity, carbon sequestration, water regulation, and other critical ecosystem services for future generations.</p>
