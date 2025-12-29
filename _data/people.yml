@@ -32,7 +32,7 @@ phd_students:
   - name: Marco Obermeier
     role: PhD Student
     photo: /assets/images/people/m.jpeg
-    description: "Marco Obermeier is a PhD student working on the smartBattery project, applying machine learning and optimization techniques for optimal integration of battery storage in smart grids. His research focuses on time series analysis of energy data to improve renewable energy systems in agriculture."
+    description: "Marco Obermeier is a PhD student working on the smartBattery project, applying machine learning and optimization techniques for optimal integration of battery storage in smart grids. His research focuses on data-driven methods and machine learning for energy engineering – including time series analysis, forecasting, and optimization – to enhance renewable energy integration in power grids."
 
 # Student Assistants
 assistants:
