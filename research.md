@@ -75,10 +75,10 @@ Our research focuses on developing sustainable, AI-powered solutions for complex
   <div class="project-content">
     <h4>Machine Learning for Smart Grid Integration</h4>
     <p><strong>Researcher:</strong> Marco Obermeier</p>
-    <p><strong>Project Duration:</strong> October 2025 - December 2028</p>
-    <p><strong>Challenge:</strong> Optimal integration of battery storage systems in smart grids requires sophisticated time series prediction and optimization to balance renewable energy supply, demand fluctuations, and grid stability.</p>
-    <p><strong>Approach:</strong> We develop machine learning models for energy time series analysis, forecasting, and optimization algorithms that maximize renewable energy utilization while ensuring grid reliability and economic efficiency.</p>
-    <p><strong>Impact:</strong> Enhanced integration of renewable energy sources in agricultural operations, reduced energy costs, improved grid stability, and accelerated transition to sustainable energy systems.</p>
+    <p><strong>Project Duration:</strong> October 2025 - September 2028</p>
+    <p><strong>Challenge:</strong> The surge in large-scale battery storage (500+ GW grid connection requests in Germany as of 08/2025) challenges power grids with limited capacities, unclear optimal sites due to technical, economic, and regulatory factors, and the need for flexible grid agreements under high investment uncertainty.</p>
+    <p><strong>Approach:</strong> We develop the "smartBattery Toolbox" - data-driven ML toolbox containing energy time series analysis, forecasting, storage optimization across markets, and site evaluation considering grid constraints and economic factors.</p>
+    <p><strong>Impact:</strong> Accelerated battery rollout, reduced grid congestion, lower energy costs through optimal dispatch, and enhanced renewable energy integration.</p>
   </div>
 </div>
 
