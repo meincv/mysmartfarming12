@@ -37,7 +37,7 @@ phd_students:
   - name: Lina-Liv Willruth
     role: PhD Student
     photo: /assets/images/people/lw.jpeg
-    description: "Lina-Liv Willruth is a PhD student working on the ... project."
+    description: "Lina-Liv Willruth is a PhD student working on the prevention of plant diseases in hop production, focusing on modernizing the outdated downy mildew warning system. Her research leverages artificial intelligence and smart trapping technologies to partly automate disease monitoring and develop a regionalized early warning system. By integrating data-driven models with field-based sensing, she aims to improve prediction accuracy, support timely interventions, and enhance sustainable crop protection strategies."
 
 # Student Assistants
 assistants:
