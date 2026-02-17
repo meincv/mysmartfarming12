@@ -34,9 +34,14 @@ phd_students:
     photo: /assets/images/people/m.jpeg
     description: "Marco Obermeier is a PhD student working on the smartBattery project, applying machine learning and optimization techniques for optimal integration of battery storage in smart grids. His research focuses on data-driven methods and machine learning for energy engineering – including time series analysis, forecasting, and optimization – to enhance renewable energy integration in power grids."
 
+  - name: Lina-Liv Willruth
+    role: PhD Student
+    photo: /assets/images/people/lw.jpeg
+    description: "Lina-Liv Willruth is a PhD student working on the ... project."
+
 # Student Assistants
 assistants:
-  - name: Jessica Kaposztas
-    role: Student Assistant
-    photo: /assets/images/people/j.jpeg
-    description: "Jessica Kaposztas is a student assistant supporting the research group with various projects and administrative tasks, contributing to the advancement of smart farming technologies."
+  - name: TBD
+    role: TBD
+    photo: /assets/images/people/TBD.jpeg
+    description: "TBD is a student assistant supporting the research group with various projects and administrative tasks, contributing to the advancement of smart farming technologies."
